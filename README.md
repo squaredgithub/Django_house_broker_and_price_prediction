@@ -1,7 +1,4 @@
-# BTreal_estate_Django
-Django real estate website  
-
-![Screen Shot 2022-08-07 at 8 54 32 PM](https://user-images.githubusercontent.com/98242760/183308364-8b2066e1-7f9e-4f07-a0f9-b7538b742b17.png)
+This is a house price prediction and house broker site built with django 
 
 FRONTEND PAGES
 
@@ -13,15 +10,8 @@ FRONTEND PAGES
 	•	Register
 	•	Login
 	•	Dashboard (Inquiries)
+	.       Price prediction
 
-DESIGN SPECS
-
-
-	•	Use BTRE logo (Frontend and admin)
-	•	Branding colors – blue(#10284e) green(#30caa0)
-	•	Mobile Friendly
-	•	Social media icons & contact info
-	•	Doesn’t have to be too fancy but must be clean
 
 
 FUNCTIONALITY SPECS
@@ -57,9 +47,4 @@ LISTING PAGE FIELDS
 	•	Realtor – Name & Image
 	•	Main image and 5 other images
 
-Possible Future Functionality
-
-
-	•	Google maps on listing page
-	•	Buyer testimonials
 
